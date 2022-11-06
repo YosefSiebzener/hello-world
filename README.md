@@ -5,3 +5,4 @@ My name is **Yosef Siebzener** and I always say
 [^1]: This is not actually a real quote. I have never said this.
 Things like ~~strikethroughs~~ are fun to use.
 Just added this line and I'm going to commit it using the command line.
+*Adding this line in git bash. Going to commit it after.*
